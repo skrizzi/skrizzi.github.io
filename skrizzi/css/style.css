@@ -1,0 +1,23 @@
+body{
+	color: 255,255,255;
+	background-color:#FCFFF5;
+	text-align: center;
+	font-family: Helvetica;
+	text-transform: capitalize;
+
+
+}
+
+h1{
+	font-size: 30pt;
+	
+}
+
+#slogan{
+	font-size: 20pt;
+	text-decoration: italic;
+}
+
+a{
+	text-decoration: none;
+}
