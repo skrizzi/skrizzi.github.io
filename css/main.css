@@ -1,0 +1,29 @@
+body{
+background: rgba(176,196,222,.5);
+font-family: Avenir;
+text-align: center;
+}
+
+h1{
+	text-align: center;
+}
+
+p{
+	padding:25px 200px;
+}
+
+ul{
+	padding-right: 500px;
+	padding-left: 500px;
+}
+
+#slogan{
+	text-align: center;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+
+a{
+	text-decoration: none;
+	text-transform: uppercase;
+}
