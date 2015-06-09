@@ -86,12 +86,14 @@ h3{
 	float: left;
 	width: 460px;
 	margin: 10px auto;
+	line-height: 1.5;
 }
 
 #gallery {
 	float: right;
 	width: 460px;
 	margin: 10px auto;
+	line-height: 1.5;
 }
 
 .about1 {
